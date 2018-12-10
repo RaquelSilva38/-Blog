@@ -7,7 +7,6 @@ body{
 	background-size:cover;
 	background-color: white;
 }
-
 /*******MENU*******/
 nav{
 	background-color: #000000;
@@ -66,10 +65,8 @@ mark{
 	border-radius: 5px 5px;
 	background-color: black; 
 	color:white;}
-	
 /*******TEXTO*************/
 p {
-	
 	padding: 10px;
 	text-align: center;
 	font-size: 23px;
